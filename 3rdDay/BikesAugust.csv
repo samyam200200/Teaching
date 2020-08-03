@@ -1,0 +1,745 @@
+"","hr","holiday","workingday","weathersit","temp","atemp","hum","windspeed","cnt","instant","mnth","yr"
+"1","0",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.79,0.1642,47,13748,8,1
+"2","1",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.0896,33,13749,8,1
+"3","2",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5758,0.83,0.1045,13,13750,8,1
+"4","3",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5758,0.83,0.1045,7,13751,8,1
+"5","4",FALSE,TRUE,"Misty",0.64,0.5909,0.78,0.1343,4,13752,8,1
+"6","5",FALSE,TRUE,"Misty",0.64,0.5909,0.78,0.1343,49,13753,8,1
+"7","6",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5909,0.78,0.1343,185,13754,8,1
+"8","7",FALSE,TRUE,"Misty",0.64,0.5758,0.83,0.1343,487,13755,8,1
+"9","8",FALSE,TRUE,"Misty",0.66,0.6061,0.78,0.194,681,13756,8,1
+"10","9",FALSE,TRUE,"Misty",0.68,0.6364,0.74,0.0896,350,13757,8,1
+"11","10",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.66,0.0896,236,13758,8,1
+"12","11",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.58,0.0896,234,13759,8,1
+"13","12",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.49,0.1045,284,13760,8,1
+"14","13",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.52,0.1642,280,13761,8,1
+"15","14",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7576,0.46,0.1642,263,13762,8,1
+"16","15",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7576,0.46,0.1642,295,13763,8,1
+"17","16",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7576,0.55,0.2836,479,13764,8,1
+"18","17",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.49,0.1642,837,13765,8,1
+"19","18",FALSE,TRUE,"Light Precipitation",0.76,0.7121,0.62,0.2239,891,13766,8,1
+"20","19",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.66,0.2537,652,13767,8,1
+"21","20",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.66,0.1642,513,13768,8,1
+"22","21",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.7,0.1343,320,13769,8,1
+"23","22",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.7,0.1045,288,13770,8,1
+"24","23",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.74,0,152,13771,8,1
+"25","0",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.74,0,63,13772,8,1
+"26","1",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.79,0.1045,42,13773,8,1
+"27","2",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.0896,11,13774,8,1
+"28","3",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0,6,13775,8,1
+"29","4",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0,9,13776,8,1
+"30","5",FALSE,TRUE,"Clear to partly cloudy",0.66,0.5909,0.89,0.1343,41,13777,8,1
+"31","6",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0,183,13778,8,1
+"32","7",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.79,0,473,13779,8,1
+"33","8",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.1045,739,13780,8,1
+"34","9",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.66,0.1045,343,13781,8,1
+"35","10",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7576,0.55,0,181,13782,8,1
+"36","11",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7727,0.52,0.1045,226,13783,8,1
+"37","12",FALSE,TRUE,"Clear to partly cloudy",0.84,0.7576,0.44,0.1343,286,13784,8,1
+"38","13",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7879,0.44,0.2239,310,13785,8,1
+"39","14",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7879,0.41,0.1343,225,13786,8,1
+"40","15",FALSE,TRUE,"Clear to partly cloudy",0.78,0.7424,0.62,0.4627,270,13787,8,1
+"41","16",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7576,0.46,0.194,406,13788,8,1
+"42","17",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7727,0.52,0.2537,865,13789,8,1
+"43","18",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7727,0.59,0.2239,767,13790,8,1
+"44","19",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7879,0.63,0.1642,607,13791,8,1
+"45","20",FALSE,TRUE,"Clear to partly cloudy",0.78,0.7576,0.66,0,427,13792,8,1
+"46","21",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.66,0.2239,342,13793,8,1
+"47","22",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.7,0.194,262,13794,8,1
+"48","23",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.7,0.2537,177,13795,8,1
+"49","0",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.7,0.194,71,13796,8,1
+"50","1",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.74,0.194,43,13797,8,1
+"51","2",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.79,0.2239,14,13798,8,1
+"52","3",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.79,0.2239,6,13799,8,1
+"53","4",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.2537,12,13800,8,1
+"54","5",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.1642,37,13801,8,1
+"55","6",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.2239,163,13802,8,1
+"56","7",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.74,0.1045,421,13803,8,1
+"57","8",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.7,0.1343,668,13804,8,1
+"58","9",FALSE,TRUE,"Misty",0.74,0.697,0.66,0.1045,396,13805,8,1
+"59","10",FALSE,TRUE,"Misty",0.8,0.7424,0.52,0.194,249,13806,8,1
+"60","11",FALSE,TRUE,"Misty",0.84,0.7879,0.49,0.2836,263,13807,8,1
+"61","12",FALSE,TRUE,"Misty",0.86,0.8182,0.5,0.2985,338,13808,8,1
+"62","13",FALSE,TRUE,"Misty",0.86,0.803,0.47,0.2836,345,13809,8,1
+"63","14",FALSE,TRUE,"Misty",0.86,0.7879,0.44,0.2537,331,13810,8,1
+"64","15",FALSE,TRUE,"Clear to partly cloudy",0.88,0.8182,0.42,0.2537,380,13811,8,1
+"65","16",FALSE,TRUE,"Misty",0.86,0.7879,0.41,0.2239,492,13812,8,1
+"66","17",FALSE,TRUE,"Misty",0.84,0.803,0.53,0.2836,741,13813,8,1
+"67","18",FALSE,TRUE,"Misty",0.82,0.803,0.59,0.2537,671,13814,8,1
+"68","19",FALSE,TRUE,"Misty",0.8,0.7879,0.63,0.2239,469,13815,8,1
+"69","20",FALSE,TRUE,"Misty",0.78,0.7576,0.66,0.2239,389,13816,8,1
+"70","21",FALSE,TRUE,"Misty",0.76,0.7273,0.66,0.194,278,13817,8,1
+"71","22",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.7,0.2537,202,13818,8,1
+"72","23",FALSE,TRUE,"Clear to partly cloudy",0.74,0.7121,0.79,0.1343,196,13819,8,1
+"73","0",FALSE,FALSE,"Clear to partly cloudy",0.74,0.7121,0.79,0.1642,161,13820,8,1
+"74","1",FALSE,FALSE,"Clear to partly cloudy",0.72,0.7121,0.84,0.194,122,13821,8,1
+"75","2",FALSE,FALSE,"Clear to partly cloudy",0.72,0.7121,0.84,0.1343,84,13822,8,1
+"76","3",FALSE,FALSE,"Clear to partly cloudy",0.72,0.7121,0.84,0.1343,30,13823,8,1
+"77","4",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.79,0.194,13,13824,8,1
+"78","5",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6667,0.84,0.2239,17,13825,8,1
+"79","6",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6667,0.84,0.2239,49,13826,8,1
+"80","7",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.77,0.1642,67,13827,8,1
+"81","8",FALSE,FALSE,"Clear to partly cloudy",0.74,0.7273,0.72,0.194,181,13828,8,1
+"82","9",FALSE,FALSE,"Clear to partly cloudy",0.78,0.7576,0.65,0.2239,278,13829,8,1
+"83","10",FALSE,FALSE,"Clear to partly cloudy",0.82,0.7727,0.57,0.194,396,13830,8,1
+"84","11",FALSE,FALSE,"Clear to partly cloudy",0.86,0.803,0.47,0.2537,470,13831,8,1
+"85","12",FALSE,FALSE,"Clear to partly cloudy",0.86,0.7879,0.4,0.3582,547,13832,8,1
+"86","13",FALSE,FALSE,"Clear to partly cloudy",0.88,0.8182,0.42,0.2985,527,13833,8,1
+"87","14",FALSE,FALSE,"Clear to partly cloudy",0.88,0.803,0.4,0.3881,472,13834,8,1
+"88","15",FALSE,FALSE,"Clear to partly cloudy",0.88,0.8182,0.42,0.4179,489,13835,8,1
+"89","16",FALSE,FALSE,"Clear to partly cloudy",0.9,0.8182,0.39,0.2985,450,13836,8,1
+"90","17",FALSE,FALSE,"Clear to partly cloudy",0.88,0.7879,0.37,0.2985,492,13837,8,1
+"91","18",FALSE,FALSE,"Clear to partly cloudy",0.86,0.7879,0.41,0.3284,490,13838,8,1
+"92","19",FALSE,FALSE,"Clear to partly cloudy",0.82,0.7727,0.52,0.3582,397,13839,8,1
+"93","20",FALSE,FALSE,"Clear to partly cloudy",0.82,0.7727,0.52,0.2985,312,13840,8,1
+"94","21",FALSE,FALSE,"Clear to partly cloudy",0.8,0.7727,0.59,0.2537,289,13841,8,1
+"95","22",FALSE,FALSE,"Clear to partly cloudy",0.76,0.7273,0.66,0.2836,269,13842,8,1
+"96","23",FALSE,FALSE,"Clear to partly cloudy",0.76,0.7273,0.66,0.2985,222,13843,8,1
+"97","0",FALSE,FALSE,"Clear to partly cloudy",0.74,0.697,0.7,0.2836,153,13844,8,1
+"98","1",FALSE,FALSE,"Clear to partly cloudy",0.74,0.697,0.7,0.2537,87,13845,8,1
+"99","2",FALSE,FALSE,"Clear to partly cloudy",0.74,0.697,0.7,0.2985,73,13846,8,1
+"100","3",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.74,0.2537,41,13847,8,1
+"101","4",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.74,0.2537,14,13848,8,1
+"102","5",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.74,0.2537,19,13849,8,1
+"103","6",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.79,0.2537,19,13850,8,1
+"104","7",FALSE,FALSE,"Clear to partly cloudy",0.74,0.7121,0.74,0.2985,68,13851,8,1
+"105","8",FALSE,FALSE,"Clear to partly cloudy",0.76,0.7273,0.66,0.3284,108,13852,8,1
+"106","9",FALSE,FALSE,"Clear to partly cloudy",0.8,0.7727,0.59,0.3582,229,13853,8,1
+"107","10",FALSE,FALSE,"Clear to partly cloudy",0.8,0.7727,0.59,0.4179,364,13854,8,1
+"108","11",FALSE,FALSE,"Clear to partly cloudy",0.82,0.7879,0.56,0.4179,437,13855,8,1
+"109","12",FALSE,FALSE,"Clear to partly cloudy",0.86,0.803,0.47,0.5224,491,13856,8,1
+"110","13",FALSE,FALSE,"Clear to partly cloudy",0.88,0.8182,0.44,0.4627,523,13857,8,1
+"111","14",FALSE,FALSE,"Clear to partly cloudy",0.9,0.8485,0.42,0.4627,526,13858,8,1
+"112","15",FALSE,FALSE,"Clear to partly cloudy",0.9,0.8182,0.37,0.5224,450,13859,8,1
+"113","16",FALSE,FALSE,"Clear to partly cloudy",0.82,0.7576,0.46,0.2537,421,13860,8,1
+"114","17",FALSE,FALSE,"Clear to partly cloudy",0.82,0.7576,0.46,0.2537,382,13861,8,1
+"115","18",FALSE,FALSE,"Light Precipitation",0.7,0.6667,0.74,0.1343,229,13862,8,1
+"116","19",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6667,0.84,0.2239,185,13863,8,1
+"117","20",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6667,0.84,0.1045,193,13864,8,1
+"118","21",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.79,0.1045,208,13865,8,1
+"119","22",FALSE,FALSE,"Clear to partly cloudy",0.72,0.697,0.79,0.0896,157,13866,8,1
+"120","23",FALSE,FALSE,"Misty",0.72,0.697,0.79,0.1642,87,13867,8,1
+"121","0",FALSE,TRUE,"Misty",0.72,0.697,0.79,0,33,13868,8,1
+"122","1",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.79,0.0896,11,13869,8,1
+"123","2",FALSE,TRUE,"Misty",0.72,0.697,0.79,0.1343,5,13870,8,1
+"124","3",FALSE,TRUE,"Light Precipitation",0.72,0.697,0.79,0.0896,5,13871,8,1
+"125","4",FALSE,TRUE,"Misty",0.72,0.697,0.74,0.1343,11,13872,8,1
+"126","5",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.79,0.194,25,13873,8,1
+"127","6",FALSE,TRUE,"Misty",0.7,0.6667,0.79,0.2239,141,13874,8,1
+"128","7",FALSE,TRUE,"Light Precipitation",0.72,0.6818,0.7,0.194,407,13875,8,1
+"129","8",FALSE,TRUE,"Misty",0.7,0.6667,0.79,0,605,13876,8,1
+"130","9",FALSE,TRUE,"Light Precipitation",0.7,0.6667,0.79,0.1642,276,13877,8,1
+"131","10",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.7,0.2239,213,13878,8,1
+"132","11",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.66,0.1343,260,13879,8,1
+"133","12",FALSE,TRUE,"Misty",0.78,0.7273,0.55,0.0896,285,13880,8,1
+"134","13",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.49,0.2239,289,13881,8,1
+"135","14",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7576,0.46,0,287,13882,8,1
+"136","15",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7576,0.46,0.1343,274,13883,8,1
+"137","16",FALSE,TRUE,"Clear to partly cloudy",0.84,0.7576,0.41,0.1045,451,13884,8,1
+"138","17",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7424,0.41,0,858,13885,8,1
+"139","18",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7424,0.41,0.1343,843,13886,8,1
+"140","19",FALSE,TRUE,"Clear to partly cloudy",0.78,0.7424,0.59,0.194,640,13887,8,1
+"141","20",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.66,0.1642,457,13888,8,1
+"142","21",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.7,0.194,317,13889,8,1
+"143","22",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.7,0.0896,207,13890,8,1
+"144","23",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.194,113,13891,8,1
+"145","0",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0.194,47,13892,8,1
+"146","1",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0.1343,18,13893,8,1
+"147","2",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0.1343,13,13894,8,1
+"148","3",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0,6,13895,8,1
+"149","4",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.83,0.1343,9,13896,8,1
+"150","5",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.79,0.1045,36,13897,8,1
+"151","6",FALSE,TRUE,"Misty",0.7,0.6667,0.79,0.194,179,13898,8,1
+"152","7",FALSE,TRUE,"Misty",0.7,0.6667,0.74,0.1343,502,13899,8,1
+"153","8",FALSE,TRUE,"Misty",0.7,0.6515,0.7,0.1642,705,13900,8,1
+"154","9",FALSE,TRUE,"Misty",0.7,0.6667,0.74,0.1343,327,13901,8,1
+"155","10",FALSE,TRUE,"Misty",0.74,0.697,0.7,0.1343,250,13902,8,1
+"156","11",FALSE,TRUE,"Misty",0.76,0.7273,0.66,0.0896,214,13903,8,1
+"157","12",FALSE,TRUE,"Misty",0.8,0.7576,0.55,0.1343,283,13904,8,1
+"158","13",FALSE,TRUE,"Misty",0.8,0.7424,0.52,0.194,253,13905,8,1
+"159","14",FALSE,TRUE,"Misty",0.82,0.7576,0.46,0,261,13906,8,1
+"160","15",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.52,0,306,13907,8,1
+"161","16",FALSE,TRUE,"Light Precipitation",0.76,0.7273,0.66,0.2836,445,13908,8,1
+"162","17",FALSE,TRUE,"Misty",0.78,0.7424,0.62,0.1343,868,13909,8,1
+"163","18",FALSE,TRUE,"Misty",0.76,0.7121,0.62,0.1642,814,13910,8,1
+"164","19",FALSE,TRUE,"Misty",0.76,0.7273,0.66,0.1045,610,13911,8,1
+"165","20",FALSE,TRUE,"Misty",0.74,0.697,0.7,0.1343,448,13912,8,1
+"166","21",FALSE,TRUE,"Misty",0.72,0.697,0.74,0,317,13913,8,1
+"167","22",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.1045,224,13914,8,1
+"168","23",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.79,0,138,13915,8,1
+"169","0",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0,58,13916,8,1
+"170","1",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.79,0,23,13917,8,1
+"171","2",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0,6,13918,8,1
+"172","3",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0,7,13919,8,1
+"173","4",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0,7,13920,8,1
+"174","5",FALSE,TRUE,"Misty",0.68,0.6364,0.89,0.1642,43,13921,8,1
+"175","6",FALSE,TRUE,"Misty",0.7,0.6667,0.84,0.1642,173,13922,8,1
+"176","7",FALSE,TRUE,"Misty",0.7,0.6667,0.84,0.1642,482,13923,8,1
+"177","8",FALSE,TRUE,"Misty",0.74,0.7273,0.72,0.0896,737,13924,8,1
+"178","9",FALSE,TRUE,"Misty",0.76,0.7273,0.66,0,341,13925,8,1
+"179","10",FALSE,TRUE,"Misty",0.8,0.7424,0.52,0.1343,214,13926,8,1
+"180","11",FALSE,TRUE,"Misty",0.8,0.7424,0.52,0,239,13927,8,1
+"181","12",FALSE,TRUE,"Misty",0.8,0.7424,0.52,0,280,13928,8,1
+"182","13",FALSE,TRUE,"Misty",0.8,0.7424,0.52,0,313,13929,8,1
+"183","14",FALSE,TRUE,"Misty",0.8,0.7424,0.52,0.2537,236,13930,8,1
+"184","15",FALSE,TRUE,"Misty",0.84,0.7576,0.44,0.194,278,13931,8,1
+"185","16",FALSE,TRUE,"Misty",0.8,0.7424,0.49,0.2836,441,13932,8,1
+"186","17",FALSE,TRUE,"Misty",0.8,0.7576,0.55,0.2836,858,13933,8,1
+"187","18",FALSE,TRUE,"Misty",0.78,0.7273,0.55,0.1642,862,13934,8,1
+"188","19",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.66,0.2239,686,13935,8,1
+"189","20",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.66,0.194,500,13936,8,1
+"190","21",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.66,0.1045,381,13937,8,1
+"191","22",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.1045,233,13938,8,1
+"192","23",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.7,0.1343,136,13939,8,1
+"193","0",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.194,67,13940,8,1
+"194","1",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.79,0.1343,28,13941,8,1
+"195","2",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0.0896,14,13942,8,1
+"196","3",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.83,0.0896,6,13943,8,1
+"197","4",FALSE,TRUE,"Misty",0.68,0.6364,0.89,0.1343,10,13944,8,1
+"198","5",FALSE,TRUE,"Misty",0.66,0.5909,0.94,0,41,13945,8,1
+"199","6",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.1642,167,13946,8,1
+"200","7",FALSE,TRUE,"Misty",0.7,0.6667,0.84,0.1642,475,13947,8,1
+"201","8",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.1045,698,13948,8,1
+"202","9",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.66,0.1642,353,13949,8,1
+"203","10",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7576,0.55,0.2239,205,13950,8,1
+"204","11",FALSE,TRUE,"Clear to partly cloudy",0.84,0.7576,0.44,0,260,13951,8,1
+"205","12",FALSE,TRUE,"Clear to partly cloudy",0.84,0.7576,0.44,0.1045,277,13952,8,1
+"206","13",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7879,0.41,0.1045,281,13953,8,1
+"207","14",FALSE,TRUE,"Clear to partly cloudy",0.88,0.7727,0.32,0.2239,247,13954,8,1
+"208","15",FALSE,TRUE,"Clear to partly cloudy",0.88,0.7727,0.32,0.2239,267,13955,8,1
+"209","16",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7727,0.39,0.2537,417,13956,8,1
+"210","17",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7576,0.36,0.2537,810,13957,8,1
+"211","18",FALSE,TRUE,"Misty",0.82,0.7576,0.46,0.2537,811,13958,8,1
+"212","19",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7576,0.55,0.194,623,13959,8,1
+"213","20",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.54,0.2836,478,13960,8,1
+"214","21",FALSE,TRUE,"Misty",0.7,0.6515,0.58,0.1642,336,13961,8,1
+"215","22",FALSE,TRUE,"Misty",0.66,0.6212,0.69,0.2239,259,13962,8,1
+"216","23",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.74,0,156,13963,8,1
+"217","0",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.65,0.0896,85,13964,8,1
+"218","1",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.65,0.1045,41,13965,8,1
+"219","2",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.74,0.1642,20,13966,8,1
+"220","3",FALSE,TRUE,"Misty",0.72,0.697,0.79,0.194,9,13967,8,1
+"221","4",FALSE,TRUE,"Light Precipitation",0.7,0.6667,0.84,0.2836,7,13968,8,1
+"222","5",FALSE,TRUE,"Light Precipitation",0.7,0.6667,0.84,0.2836,33,13969,8,1
+"223","6",FALSE,TRUE,"Light Precipitation",0.64,0.5758,0.89,0.2985,44,13970,8,1
+"224","7",FALSE,TRUE,"Light Precipitation",0.64,0.5758,0.89,0.1045,133,13971,8,1
+"225","8",FALSE,TRUE,"Light Precipitation",0.62,0.5455,0.91,0.1642,119,13972,8,1
+"226","9",FALSE,TRUE,"Misty",0.64,0.5758,0.89,0,220,13973,8,1
+"227","10",FALSE,TRUE,"Clear to partly cloudy",0.66,0.5909,0.89,0.1045,193,13974,8,1
+"228","11",FALSE,TRUE,"Light Precipitation",0.68,0.6364,0.79,0.1343,251,13975,8,1
+"229","12",FALSE,TRUE,"Misty",0.74,0.697,0.66,0.3582,315,13976,8,1
+"230","13",FALSE,TRUE,"Misty",0.76,0.7121,0.58,0.3582,290,13977,8,1
+"231","14",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.58,0.3582,307,13978,8,1
+"232","15",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.52,0.4478,324,13979,8,1
+"233","16",FALSE,TRUE,"Clear to partly cloudy",0.78,0.7273,0.55,0.2985,467,13980,8,1
+"234","17",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.52,0.2836,730,13981,8,1
+"235","18",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.62,0.2985,640,13982,8,1
+"236","19",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.62,0.2836,492,13983,8,1
+"237","20",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.66,0.2985,370,13984,8,1
+"238","21",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.66,0.2537,286,13985,8,1
+"239","22",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.2836,218,13986,8,1
+"240","23",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.7,0.2836,192,13987,8,1
+"241","0",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6515,0.7,0.2836,180,13988,8,1
+"242","1",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6212,0.74,0.2239,116,13989,8,1
+"243","2",FALSE,FALSE,"Light Precipitation",0.64,0.5909,0.78,0.194,85,13990,8,1
+"244","3",FALSE,FALSE,"Light Precipitation",0.62,0.5758,0.83,0.1642,21,13991,8,1
+"245","4",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5758,0.83,0.1045,10,13992,8,1
+"246","5",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5606,0.88,0.1045,11,13993,8,1
+"247","6",FALSE,FALSE,"Misty",0.62,0.5606,0.88,0.1045,23,13994,8,1
+"248","7",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.83,0.0896,62,13995,8,1
+"249","8",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6061,0.83,0.1045,162,13996,8,1
+"250","9",FALSE,FALSE,"Clear to partly cloudy",0.68,0.6364,0.79,0.194,271,13997,8,1
+"251","10",FALSE,FALSE,"Clear to partly cloudy",0.72,0.6818,0.62,0.0896,407,13998,8,1
+"252","11",FALSE,FALSE,"Clear to partly cloudy",0.74,0.697,0.66,0.1642,499,13999,8,1
+"253","12",FALSE,FALSE,"Clear to partly cloudy",0.76,0.7121,0.58,0.2239,546,14000,8,1
+"254","13",FALSE,FALSE,"Clear to partly cloudy",0.8,0.7424,0.49,0.3582,569,14001,8,1
+"255","14",FALSE,FALSE,"Clear to partly cloudy",0.8,0.7424,0.49,0.2985,538,14002,8,1
+"256","15",FALSE,FALSE,"Clear to partly cloudy",0.8,0.7273,0.46,0.2836,562,14003,8,1
+"257","16",FALSE,FALSE,"Clear to partly cloudy",0.8,0.7273,0.46,0.2985,531,14004,8,1
+"258","17",FALSE,FALSE,"Light Precipitation",0.74,0.697,0.66,0.3582,512,14005,8,1
+"259","18",FALSE,FALSE,"Misty",0.7,0.6667,0.74,0.2985,300,14006,8,1
+"260","19",FALSE,FALSE,"Misty",0.66,0.5909,0.89,0.1045,275,14007,8,1
+"261","20",FALSE,FALSE,"Light Precipitation",0.66,0.5909,0.89,0.4179,160,14008,8,1
+"262","21",FALSE,FALSE,"Misty",0.66,0.5909,0.89,0.1642,128,14009,8,1
+"263","22",FALSE,FALSE,"Misty",0.66,0.5909,0.89,0.1642,168,14010,8,1
+"264","23",FALSE,FALSE,"Light Precipitation",0.66,0.6061,0.78,0.1642,163,14011,8,1
+"265","0",FALSE,FALSE,"Misty",0.64,0.6061,0.73,0.1343,120,14012,8,1
+"266","1",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5909,0.78,0.1343,113,14013,8,1
+"267","2",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6061,0.69,0.1343,86,14014,8,1
+"268","3",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5909,0.73,0.0896,48,14015,8,1
+"269","4",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6061,0.69,0.0896,10,14016,8,1
+"270","5",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6212,0.61,0.194,10,14017,8,1
+"271","6",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6061,0.65,0.1642,16,14018,8,1
+"272","7",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6061,0.65,0.1343,39,14019,8,1
+"273","8",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6212,0.54,0.2239,119,14020,8,1
+"274","9",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6515,0.48,0.2239,217,14021,8,1
+"275","10",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6515,0.51,0.1642,328,14022,8,1
+"276","11",FALSE,FALSE,"Clear to partly cloudy",0.74,0.6667,0.42,0.1642,449,14023,8,1
+"277","12",FALSE,FALSE,"Clear to partly cloudy",0.74,0.6667,0.42,0.194,505,14024,8,1
+"278","13",FALSE,FALSE,"Clear to partly cloudy",0.78,0.697,0.4,0,543,14025,8,1
+"279","14",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6818,0.4,0.194,579,14026,8,1
+"280","15",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6818,0.4,0.1343,577,14027,8,1
+"281","16",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6818,0.4,0.1045,513,14028,8,1
+"282","17",FALSE,FALSE,"Clear to partly cloudy",0.8,0.697,0.33,0,505,14029,8,1
+"283","18",FALSE,FALSE,"Clear to partly cloudy",0.78,0.6818,0.35,0.1045,491,14030,8,1
+"284","19",FALSE,FALSE,"Clear to partly cloudy",0.74,0.6515,0.4,0.1343,465,14031,8,1
+"285","20",FALSE,FALSE,"Clear to partly cloudy",0.72,0.6515,0.45,0,300,14032,8,1
+"286","21",FALSE,FALSE,"Clear to partly cloudy",0.72,0.6667,0.51,0.0896,220,14033,8,1
+"287","22",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6515,0.58,0.1343,181,14034,8,1
+"288","23",FALSE,FALSE,"Clear to partly cloudy",0.68,0.6364,0.61,0,110,14035,8,1
+"289","0",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.65,0.1045,47,14036,8,1
+"290","1",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.65,0.0896,14,14037,8,1
+"291","2",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0.1045,9,14038,8,1
+"292","3",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0,6,14039,8,1
+"293","4",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0.1045,11,14040,8,1
+"294","5",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0.1045,36,14041,8,1
+"295","6",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0.0896,159,14042,8,1
+"296","7",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.65,0.1343,436,14043,8,1
+"297","8",FALSE,TRUE,"Misty",0.72,0.6667,0.51,0.0896,673,14044,8,1
+"298","9",FALSE,TRUE,"Misty",0.74,0.6667,0.45,0,305,14045,8,1
+"299","10",FALSE,TRUE,"Misty",0.76,0.6818,0.4,0,199,14046,8,1
+"300","11",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.4,0.0896,245,14047,8,1
+"301","12",FALSE,TRUE,"Clear to partly cloudy",0.78,0.697,0.4,0.194,276,14048,8,1
+"302","13",FALSE,TRUE,"Clear to partly cloudy",0.78,0.697,0.4,0.1642,254,14049,8,1
+"303","14",FALSE,TRUE,"Clear to partly cloudy",0.8,0.697,0.33,0.1045,248,14050,8,1
+"304","15",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7273,0.34,0.2239,274,14051,8,1
+"305","16",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7121,0.36,0.0896,464,14052,8,1
+"306","17",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7121,0.36,0.1642,818,14053,8,1
+"307","18",FALSE,TRUE,"Clear to partly cloudy",0.76,0.697,0.52,0.2836,812,14054,8,1
+"308","19",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.58,0.1642,555,14055,8,1
+"309","20",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.62,0.2239,432,14056,8,1
+"310","21",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.66,0.194,290,14057,8,1
+"311","22",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.62,0.3284,192,14058,8,1
+"312","23",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.7,0.2239,128,14059,8,1
+"313","0",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.74,0.2239,60,14060,8,1
+"314","1",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.79,0.2537,27,14061,8,1
+"315","2",FALSE,TRUE,"Misty",0.68,0.6364,0.83,0.194,11,14062,8,1
+"316","3",FALSE,TRUE,"Misty",0.68,0.6364,0.83,0.194,3,14063,8,1
+"317","4",FALSE,TRUE,"Misty",0.68,0.6364,0.83,0.194,5,14064,8,1
+"318","5",FALSE,TRUE,"Misty",0.68,0.6364,0.89,0.194,36,14065,8,1
+"319","6",FALSE,TRUE,"Light Precipitation",0.64,0.5758,0.83,0.194,64,14066,8,1
+"320","7",FALSE,TRUE,"Misty",0.66,0.6061,0.83,0.0896,179,14067,8,1
+"321","8",FALSE,TRUE,"Misty",0.66,0.5909,0.89,0.0896,618,14068,8,1
+"322","9",FALSE,TRUE,"Misty",0.7,0.6667,0.74,0,402,14069,8,1
+"323","10",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.79,0.1045,208,14070,8,1
+"324","11",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.62,0,196,14071,8,1
+"325","12",FALSE,TRUE,"Clear to partly cloudy",0.78,0.7121,0.49,0.1343,300,14072,8,1
+"326","13",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7273,0.46,0.0896,286,14073,8,1
+"327","14",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7424,0.41,0.2239,255,14074,8,1
+"328","15",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7576,0.46,0.2239,283,14075,8,1
+"329","16",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7424,0.43,0.2239,458,14076,8,1
+"330","17",FALSE,TRUE,"Light Precipitation",0.76,0.7273,0.66,0.2537,812,14077,8,1
+"331","18",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.62,0.2836,854,14078,8,1
+"332","19",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7273,0.66,0.194,627,14079,8,1
+"333","20",FALSE,TRUE,"Clear to partly cloudy",0.74,0.7121,0.74,0.2239,436,14080,8,1
+"334","21",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.62,0.2239,308,14081,8,1
+"335","22",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.66,0.0896,189,14082,8,1
+"336","23",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.66,0.1642,167,14083,8,1
+"337","0",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.194,60,14084,8,1
+"338","1",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0,37,14085,8,1
+"339","2",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.65,0,8,14086,8,1
+"340","3",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.74,0.1045,11,14087,8,1
+"341","4",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5758,0.83,0.1045,4,14088,8,1
+"342","5",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5909,0.78,0.1045,39,14089,8,1
+"343","6",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5909,0.78,0.1045,172,14090,8,1
+"344","7",FALSE,TRUE,"Misty",0.66,0.6212,0.69,0.194,492,14091,8,1
+"345","8",FALSE,TRUE,"Misty",0.7,0.6515,0.65,0.2836,682,14092,8,1
+"346","9",FALSE,TRUE,"Misty",0.72,0.6818,0.62,0.194,367,14093,8,1
+"347","10",FALSE,TRUE,"Misty",0.72,0.6818,0.62,0.194,233,14094,8,1
+"348","11",FALSE,TRUE,"Misty",0.74,0.6818,0.58,0.194,235,14095,8,1
+"349","12",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.55,0.2239,307,14096,8,1
+"350","13",FALSE,TRUE,"Misty",0.78,0.7121,0.49,0.194,294,14097,8,1
+"351","14",FALSE,TRUE,"Misty",0.76,0.697,0.52,0.2985,255,14098,8,1
+"352","15",FALSE,TRUE,"Clear to partly cloudy",0.76,0.697,0.52,0.2537,266,14099,8,1
+"353","16",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.194,431,14100,8,1
+"354","17",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.55,0.2836,851,14101,8,1
+"355","18",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.51,0.2239,848,14102,8,1
+"356","19",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.1343,649,14103,8,1
+"357","20",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.1343,427,14104,8,1
+"358","21",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.194,315,14105,8,1
+"359","22",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.1642,226,14106,8,1
+"360","23",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.65,0.1045,138,14107,8,1
+"361","0",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.69,0,76,14108,8,1
+"362","1",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0,21,14109,8,1
+"363","2",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0.194,15,14110,8,1
+"364","3",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0.2537,4,14111,8,1
+"365","4",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0.2239,5,14112,8,1
+"366","5",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5758,0.78,0.1642,37,14113,8,1
+"367","6",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5758,0.78,0.1642,165,14114,8,1
+"368","7",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0.2239,464,14115,8,1
+"369","8",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.61,0.194,682,14116,8,1
+"370","9",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.54,0.1045,337,14117,8,1
+"371","10",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.48,0.1343,199,14118,8,1
+"372","11",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6667,0.37,0.0896,274,14119,8,1
+"373","12",FALSE,TRUE,"Clear to partly cloudy",0.8,0.697,0.33,0.1045,343,14120,8,1
+"374","13",FALSE,TRUE,"Clear to partly cloudy",0.8,0.697,0.31,0.2239,300,14121,8,1
+"375","14",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7121,0.32,0,248,14122,8,1
+"376","15",FALSE,TRUE,"Clear to partly cloudy",0.8,0.697,0.33,0.2537,260,14123,8,1
+"377","16",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7121,0.32,0.2239,419,14124,8,1
+"378","17",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7273,0.34,0.194,897,14125,8,1
+"379","18",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7121,0.36,0,832,14126,8,1
+"380","19",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.4,0.1045,677,14127,8,1
+"381","20",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.4,0.0896,514,14128,8,1
+"382","21",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.48,0.194,356,14129,8,1
+"383","22",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.51,0.1642,254,14130,8,1
+"384","23",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.54,0.1045,226,14131,8,1
+"385","0",FALSE,TRUE,"Clear to partly cloudy",0.68,0.2424,0.57,0.1642,88,14132,8,1
+"386","1",FALSE,TRUE,"Clear to partly cloudy",0.66,0.2424,0.65,0.1045,54,14133,8,1
+"387","2",FALSE,TRUE,"Clear to partly cloudy",0.66,0.2424,0.61,0.1343,19,14134,8,1
+"388","3",FALSE,TRUE,"Clear to partly cloudy",0.64,0.2424,0.65,0.1045,6,14135,8,1
+"389","4",FALSE,TRUE,"Clear to partly cloudy",0.64,0.2424,0.73,0.1642,9,14136,8,1
+"390","5",FALSE,TRUE,"Clear to partly cloudy",0.64,0.2424,0.73,0.1045,36,14137,8,1
+"391","6",FALSE,TRUE,"Clear to partly cloudy",0.62,0.2424,0.78,0.1343,157,14138,8,1
+"392","7",FALSE,TRUE,"Clear to partly cloudy",0.64,0.2424,0.73,0.1045,379,14139,8,1
+"393","8",FALSE,TRUE,"Clear to partly cloudy",0.68,0.2424,0.65,0.1343,668,14140,8,1
+"394","9",FALSE,TRUE,"Clear to partly cloudy",0.7,0.2424,0.58,0.1045,378,14141,8,1
+"395","10",FALSE,TRUE,"Clear to partly cloudy",0.74,0.2424,0.55,0.1642,231,14142,8,1
+"396","11",FALSE,TRUE,"Clear to partly cloudy",0.76,0.2424,0.52,0.2836,303,14143,8,1
+"397","12",FALSE,TRUE,"Clear to partly cloudy",0.82,0.2424,0.41,0.2239,365,14144,8,1
+"398","13",FALSE,TRUE,"Clear to partly cloudy",0.84,0.2424,0.36,0.3881,357,14145,8,1
+"399","14",FALSE,TRUE,"Clear to partly cloudy",0.86,0.2424,0.34,0.4179,328,14146,8,1
+"400","15",FALSE,TRUE,"Clear to partly cloudy",0.86,0.2424,0.3,0.4627,383,14147,8,1
+"401","16",FALSE,TRUE,"Misty",0.84,0.2424,0.32,0.4478,488,14148,8,1
+"402","17",FALSE,TRUE,"Clear to partly cloudy",0.82,0.2424,0.36,0.3284,791,14149,8,1
+"403","18",FALSE,TRUE,"Misty",0.82,0.2424,0.38,0.2537,669,14150,8,1
+"404","19",FALSE,TRUE,"Misty",0.74,0.2424,0.55,0.3881,491,14151,8,1
+"405","20",FALSE,TRUE,"Misty",0.72,0.2424,0.58,0.2239,359,14152,8,1
+"406","21",FALSE,TRUE,"Misty",0.68,0.2424,0.69,0.2985,255,14153,8,1
+"407","22",FALSE,TRUE,"Light Precipitation",0.66,0.2424,0.83,0.194,213,14154,8,1
+"408","23",FALSE,TRUE,"Light Precipitation",0.64,0.2424,0.83,0.2239,121,14155,8,1
+"409","0",FALSE,FALSE,"Misty",0.64,0.5758,0.83,0.2239,105,14156,8,1
+"410","1",FALSE,FALSE,"Light Precipitation",0.62,0.5455,0.94,0.1642,92,14157,8,1
+"411","2",FALSE,FALSE,"Light Precipitation",0.62,0.5606,0.88,0.1642,43,14158,8,1
+"412","3",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5606,0.88,0.194,30,14159,8,1
+"413","4",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5909,0.73,0.2239,13,14160,8,1
+"414","5",FALSE,FALSE,"Clear to partly cloudy",0.6,0.5758,0.78,0.2537,9,14161,8,1
+"415","6",FALSE,FALSE,"Clear to partly cloudy",0.6,0.5606,0.83,0.2239,27,14162,8,1
+"416","7",FALSE,FALSE,"Clear to partly cloudy",0.6,0.5606,0.83,0.2239,64,14163,8,1
+"417","8",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6061,0.69,0.2537,189,14164,8,1
+"418","9",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6212,0.65,0.2836,292,14165,8,1
+"419","10",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6515,0.54,0.1642,480,14166,8,1
+"420","11",FALSE,FALSE,"Clear to partly cloudy",0.72,0.6667,0.51,0,536,14167,8,1
+"421","12",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6667,0.37,0.194,654,14168,8,1
+"422","13",FALSE,FALSE,"Clear to partly cloudy",0.74,0.6515,0.4,0.194,644,14169,8,1
+"423","14",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6667,0.37,0.2836,598,14170,8,1
+"424","15",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6667,0.37,0.2239,596,14171,8,1
+"425","16",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6667,0.37,0.2537,641,14172,8,1
+"426","17",FALSE,FALSE,"Clear to partly cloudy",0.76,0.6667,0.37,0.2239,635,14173,8,1
+"427","18",FALSE,FALSE,"Clear to partly cloudy",0.74,0.6515,0.37,0.1642,554,14174,8,1
+"428","19",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6364,0.45,0.1642,488,14175,8,1
+"429","20",FALSE,FALSE,"Clear to partly cloudy",0.7,0.6364,0.45,0.1045,341,14176,8,1
+"430","21",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6212,0.61,0,338,14177,8,1
+"431","22",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6212,0.61,0,261,14178,8,1
+"432","23",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6061,0.65,0.0896,235,14179,8,1
+"433","0",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6212,0.57,0.0896,187,14180,8,1
+"434","1",FALSE,FALSE,"Clear to partly cloudy",0.64,0.6061,0.65,0,131,14181,8,1
+"435","2",FALSE,FALSE,"Misty",0.62,0.6061,0.69,0.0896,119,14182,8,1
+"436","3",FALSE,FALSE,"Misty",0.62,0.6061,0.61,0.1642,55,14183,8,1
+"437","4",FALSE,FALSE,"Misty",0.62,0.6061,0.65,0.1642,26,14184,8,1
+"438","5",FALSE,FALSE,"Misty",0.6,0.5909,0.73,0.1343,11,14185,8,1
+"439","6",FALSE,FALSE,"Misty",0.62,0.6061,0.69,0.1045,20,14186,8,1
+"440","7",FALSE,FALSE,"Misty",0.62,0.6061,0.69,0.1343,41,14187,8,1
+"441","8",FALSE,FALSE,"Misty",0.64,0.6061,0.69,0.1045,124,14188,8,1
+"442","9",FALSE,FALSE,"Misty",0.66,0.6212,0.74,0,270,14189,8,1
+"443","10",FALSE,FALSE,"Misty",0.68,0.6364,0.69,0,425,14190,8,1
+"444","11",FALSE,FALSE,"Light Precipitation",0.64,0.5909,0.78,0.1642,272,14191,8,1
+"445","12",FALSE,FALSE,"Light Precipitation",0.64,0.6061,0.73,0,298,14192,8,1
+"446","13",FALSE,FALSE,"Light Precipitation",0.64,0.5758,0.83,0.1343,162,14193,8,1
+"447","14",FALSE,FALSE,"Light Precipitation",0.64,0.6061,0.73,0,149,14194,8,1
+"448","15",FALSE,FALSE,"Misty",0.64,0.6061,0.65,0,276,14195,8,1
+"449","16",FALSE,FALSE,"Misty",0.66,0.6212,0.65,0,356,14196,8,1
+"450","17",FALSE,FALSE,"Misty",0.64,0.5909,0.78,0.1045,343,14197,8,1
+"451","18",FALSE,FALSE,"Misty",0.64,0.5909,0.78,0.1045,377,14198,8,1
+"452","19",FALSE,FALSE,"Misty",0.64,0.6061,0.73,0.1343,341,14199,8,1
+"453","20",FALSE,FALSE,"Misty",0.64,0.6061,0.73,0.194,274,14200,8,1
+"454","21",FALSE,FALSE,"Light Precipitation",0.62,0.5909,0.78,0.0896,190,14201,8,1
+"455","22",FALSE,FALSE,"Misty",0.62,0.5909,0.78,0.1642,56,14202,8,1
+"456","23",FALSE,FALSE,"Misty",0.62,0.5909,0.73,0,46,14203,8,1
+"457","0",FALSE,TRUE,"Misty",0.6,0.5606,0.83,0.1045,26,14204,8,1
+"458","1",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5606,0.83,0.1642,10,14205,8,1
+"459","2",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5606,0.83,0.1642,5,14206,8,1
+"460","3",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5455,0.88,0.1045,3,14207,8,1
+"461","4",FALSE,TRUE,"Misty",0.6,0.5606,0.83,0.0896,7,14208,8,1
+"462","5",FALSE,TRUE,"Misty",0.6,0.5606,0.83,0,37,14209,8,1
+"463","6",FALSE,TRUE,"Misty",0.6,0.5758,0.78,0.1343,161,14210,8,1
+"464","7",FALSE,TRUE,"Misty",0.62,0.5909,0.78,0.1343,442,14211,8,1
+"465","8",FALSE,TRUE,"Misty",0.62,0.5909,0.73,0.1045,655,14212,8,1
+"466","9",FALSE,TRUE,"Misty",0.64,0.6061,0.69,0,357,14213,8,1
+"467","10",FALSE,TRUE,"Misty",0.64,0.6061,0.69,0.0896,193,14214,8,1
+"468","11",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.65,0.1045,241,14215,8,1
+"469","12",FALSE,TRUE,"Misty",0.66,0.6212,0.61,0.1045,282,14216,8,1
+"470","13",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.58,0.1343,291,14217,8,1
+"471","14",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.54,0.1642,275,14218,8,1
+"472","15",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.54,0.2537,309,14219,8,1
+"473","16",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.54,0.2537,460,14220,8,1
+"474","17",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.58,0.2836,893,14221,8,1
+"475","18",FALSE,TRUE,"Misty",0.62,0.5909,0.78,0.2537,815,14222,8,1
+"476","19",FALSE,TRUE,"Misty",0.62,0.5909,0.78,0.194,299,14223,8,1
+"477","20",FALSE,TRUE,"Misty",0.62,0.5758,0.83,0.2836,261,14224,8,1
+"478","21",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5606,0.83,0,245,14225,8,1
+"479","22",FALSE,TRUE,"Misty",0.6,0.5606,0.83,0,161,14226,8,1
+"480","23",FALSE,TRUE,"Misty",0.6,0.5606,0.83,0,102,14227,8,1
+"481","0",FALSE,TRUE,"Misty",0.6,0.5606,0.83,0.0896,59,14228,8,1
+"482","1",FALSE,TRUE,"Misty",0.6,0.5606,0.83,0.1343,33,14229,8,1
+"483","2",FALSE,TRUE,"Misty",0.58,0.5455,0.88,0.2836,8,14230,8,1
+"484","3",FALSE,TRUE,"Clear to partly cloudy",0.56,0.5303,0.88,0,3,14231,8,1
+"485","4",FALSE,TRUE,"Clear to partly cloudy",0.56,0.5303,0.88,0,4,14232,8,1
+"486","5",FALSE,TRUE,"Clear to partly cloudy",0.56,0.5303,0.83,0.0896,34,14233,8,1
+"487","6",FALSE,TRUE,"Clear to partly cloudy",0.56,0.5303,0.83,0.1045,169,14234,8,1
+"488","7",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5758,0.78,0.1045,519,14235,8,1
+"489","8",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5758,0.78,0.1343,723,14236,8,1
+"490","9",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0,328,14237,8,1
+"491","10",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.61,0.1045,178,14238,8,1
+"492","11",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.54,0,256,14239,8,1
+"493","12",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6515,0.45,0,305,14240,8,1
+"494","13",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6515,0.4,0,331,14241,8,1
+"495","14",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6667,0.37,0.0896,302,14242,8,1
+"496","15",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6667,0.37,0,302,14243,8,1
+"497","16",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6667,0.37,0,467,14244,8,1
+"498","17",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.51,0.2836,878,14245,8,1
+"499","18",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.54,0.2239,625,14246,8,1
+"500","19",FALSE,TRUE,"Light Precipitation",0.62,0.5909,0.73,0.1045,476,14247,8,1
+"501","20",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0,358,14248,8,1
+"502","21",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0,280,14249,8,1
+"503","22",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5909,0.78,0,232,14250,8,1
+"504","23",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0,136,14251,8,1
+"505","0",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0.1045,55,14252,8,1
+"506","1",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.78,0,21,14253,8,1
+"507","2",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.78,0,17,14254,8,1
+"508","3",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.78,0,7,14255,8,1
+"509","4",FALSE,TRUE,"Clear to partly cloudy",0.58,0.5455,0.83,0.1045,8,14256,8,1
+"510","5",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5758,0.78,0,40,14257,8,1
+"511","6",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0,187,14258,8,1
+"512","7",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.78,0,553,14259,8,1
+"513","8",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0.0896,740,14260,8,1
+"514","9",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.65,0,376,14261,8,1
+"515","10",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.0896,225,14262,8,1
+"516","11",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.58,0.0896,267,14263,8,1
+"517","12",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.51,0,312,14264,8,1
+"518","13",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.1045,316,14265,8,1
+"519","14",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.45,0.1045,266,14266,8,1
+"520","15",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.1343,316,14267,8,1
+"521","16",FALSE,TRUE,"Light Precipitation",0.74,0.6818,0.55,0.2239,460,14268,8,1
+"522","17",FALSE,TRUE,"Light Precipitation",0.74,0.6818,0.55,0.2239,783,14269,8,1
+"523","18",FALSE,TRUE,"Light Precipitation",0.66,0.6212,0.61,0.2239,683,14270,8,1
+"524","19",FALSE,TRUE,"Misty",0.66,0.6212,0.74,0,580,14271,8,1
+"525","20",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0.194,391,14272,8,1
+"526","21",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0,351,14273,8,1
+"527","22",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0,281,14274,8,1
+"528","23",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5758,0.83,0,140,14275,8,1
+"529","0",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5909,0.78,0,60,14276,8,1
+"530","1",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0,25,14277,8,1
+"531","2",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0,20,14278,8,1
+"532","3",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0.0896,9,14279,8,1
+"533","4",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0,6,14280,8,1
+"534","5",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0,37,14281,8,1
+"535","6",FALSE,TRUE,"Misty",0.6,0.5455,0.88,0.0896,192,14282,8,1
+"536","7",FALSE,TRUE,"Misty",0.62,0.5758,0.83,0.0896,481,14283,8,1
+"537","8",FALSE,TRUE,"Misty",0.66,0.6212,0.74,0.0896,707,14284,8,1
+"538","9",FALSE,TRUE,"Misty",0.7,0.6515,0.7,0,412,14285,8,1
+"539","10",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.58,0.0896,233,14286,8,1
+"540","11",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.0896,278,14287,8,1
+"541","12",FALSE,TRUE,"Clear to partly cloudy",0.78,0.6818,0.38,0,332,14288,8,1
+"542","13",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7273,0.38,0.0896,346,14289,8,1
+"543","14",FALSE,TRUE,"Clear to partly cloudy",0.78,0.697,0.46,0.2239,305,14290,8,1
+"544","15",FALSE,TRUE,"Clear to partly cloudy",0.78,0.697,0.46,0.1343,305,14291,8,1
+"545","16",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.1642,465,14292,8,1
+"546","17",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.45,0.2239,820,14293,8,1
+"547","18",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.48,0.2239,941,14294,8,1
+"548","19",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.51,0.0896,633,14295,8,1
+"549","20",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.1045,474,14296,8,1
+"550","21",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.61,0.1343,329,14297,8,1
+"551","22",FALSE,TRUE,"Misty",0.68,0.6364,0.61,0.1045,198,14298,8,1
+"552","23",FALSE,TRUE,"Misty",0.66,0.6212,0.69,0,157,14299,8,1
+"553","0",FALSE,TRUE,"Misty",0.66,0.6212,0.69,0,111,14300,8,1
+"554","1",FALSE,TRUE,"Misty",0.64,0.6061,0.73,0,42,14301,8,1
+"555","2",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.69,0,16,14302,8,1
+"556","3",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0,8,14303,8,1
+"557","4",FALSE,TRUE,"Misty",0.64,0.6061,0.73,0,8,14304,8,1
+"558","5",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5909,0.78,0,38,14305,8,1
+"559","6",FALSE,TRUE,"Misty",0.62,0.5758,0.83,0,151,14306,8,1
+"560","7",FALSE,TRUE,"Misty",0.64,0.5909,0.78,0,425,14307,8,1
+"561","8",FALSE,TRUE,"Misty",0.66,0.6212,0.74,0,744,14308,8,1
+"562","9",FALSE,TRUE,"Misty",0.72,0.6667,0.58,0,389,14309,8,1
+"563","10",FALSE,TRUE,"Misty",0.76,0.6818,0.48,0,262,14310,8,1
+"564","11",FALSE,TRUE,"Misty",0.76,0.6818,0.48,0.1045,281,14311,8,1
+"565","12",FALSE,TRUE,"Misty",0.76,0.6818,0.45,0.0896,371,14312,8,1
+"566","13",FALSE,TRUE,"Misty",0.8,0.7121,0.41,0.1045,351,14313,8,1
+"567","14",FALSE,TRUE,"Clear to partly cloudy",0.78,0.697,0.43,0.1045,338,14314,8,1
+"568","15",FALSE,TRUE,"Misty",0.76,0.6818,0.48,0.1343,350,14315,8,1
+"569","16",FALSE,TRUE,"Misty",0.76,0.6818,0.48,0.1343,515,14316,8,1
+"570","17",FALSE,TRUE,"Misty",0.74,0.6667,0.51,0.2239,812,14317,8,1
+"571","18",FALSE,TRUE,"Misty",0.72,0.6818,0.62,0.194,736,14318,8,1
+"572","19",FALSE,TRUE,"Misty",0.72,0.6667,0.58,0.1642,536,14319,8,1
+"573","20",FALSE,TRUE,"Misty",0.7,0.6515,0.65,0.2239,363,14320,8,1
+"574","21",FALSE,TRUE,"Misty",0.7,0.6515,0.61,0.1642,306,14321,8,1
+"575","22",FALSE,TRUE,"Misty",0.7,0.6515,0.61,0,251,14322,8,1
+"576","23",FALSE,TRUE,"Misty",0.68,0.6364,0.69,0.0896,178,14323,8,1
+"577","0",FALSE,FALSE,"Misty",0.7,0.6515,0.61,0,135,14324,8,1
+"578","1",FALSE,FALSE,"Misty",0.68,0.6364,0.69,0,115,14325,8,1
+"579","2",FALSE,FALSE,"Misty",0.66,0.6212,0.74,0.0896,79,14326,8,1
+"580","3",FALSE,FALSE,"Clear to partly cloudy",0.66,0.6212,0.69,0.0896,38,14327,8,1
+"581","4",FALSE,FALSE,"Misty",0.66,0.6212,0.69,0.1045,12,14328,8,1
+"582","5",FALSE,FALSE,"Misty",0.64,0.6061,0.73,0.1642,14,14329,8,1
+"583","6",FALSE,FALSE,"Misty",0.64,0.5909,0.78,0.1642,30,14330,8,1
+"584","7",FALSE,FALSE,"Misty",0.64,0.5909,0.78,0.194,102,14331,8,1
+"585","8",FALSE,FALSE,"Misty",0.66,0.6212,0.74,0.2537,162,14332,8,1
+"586","9",FALSE,FALSE,"Misty",0.68,0.6364,0.69,0.2836,288,14333,8,1
+"587","10",FALSE,FALSE,"Misty",0.7,0.6515,0.65,0.2985,442,14334,8,1
+"588","11",FALSE,FALSE,"Misty",0.72,0.6818,0.62,0.2836,457,14335,8,1
+"589","12",FALSE,FALSE,"Light Precipitation",0.72,0.6667,0.54,0.3881,584,14336,8,1
+"590","13",FALSE,FALSE,"Misty",0.72,0.6667,0.51,0.3582,517,14337,8,1
+"591","14",FALSE,FALSE,"Light Precipitation",0.66,0.6212,0.65,0.2537,482,14338,8,1
+"592","15",FALSE,FALSE,"Misty",0.64,0.6061,0.73,0.3284,233,14339,8,1
+"593","16",FALSE,FALSE,"Misty",0.66,0.6212,0.74,0.2985,434,14340,8,1
+"594","17",FALSE,FALSE,"Misty",0.66,0.6212,0.74,0.3284,403,14341,8,1
+"595","18",FALSE,FALSE,"Misty",0.66,0.6212,0.69,0.4627,383,14342,8,1
+"596","19",FALSE,FALSE,"Misty",0.64,0.5909,0.78,0.2985,354,14343,8,1
+"597","20",FALSE,FALSE,"Light Precipitation",0.62,0.5758,0.83,0.2537,241,14344,8,1
+"598","21",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5758,0.83,0.3582,208,14345,8,1
+"599","22",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5758,0.83,0.3582,182,14346,8,1
+"600","23",FALSE,FALSE,"Misty",0.62,0.5758,0.83,0.2537,158,14347,8,1
+"601","0",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.89,0.2537,134,14348,8,1
+"602","1",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.89,0.194,134,14349,8,1
+"603","2",FALSE,FALSE,"Misty",0.64,0.5758,0.89,0.2239,116,14350,8,1
+"604","3",FALSE,FALSE,"Misty",0.64,0.5758,0.89,0.2537,53,14351,8,1
+"605","4",FALSE,FALSE,"Misty",0.64,0.5758,0.89,0.194,16,14352,8,1
+"606","5",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.89,0.194,16,14353,8,1
+"607","6",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5606,0.88,0.2985,21,14354,8,1
+"608","7",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.89,0.194,34,14355,8,1
+"609","8",FALSE,FALSE,"Clear to partly cloudy",0.68,0.6364,0.79,0.2836,133,14356,8,1
+"610","9",FALSE,FALSE,"Clear to partly cloudy",0.68,0.6364,0.79,0.2537,263,14357,8,1
+"611","10",FALSE,FALSE,"Clear to partly cloudy",0.74,0.697,0.66,0.3881,385,14358,8,1
+"612","11",FALSE,FALSE,"Clear to partly cloudy",0.74,0.697,0.66,0.3582,482,14359,8,1
+"613","12",FALSE,FALSE,"Light Precipitation",0.72,0.697,0.74,0.3582,626,14360,8,1
+"614","13",FALSE,FALSE,"Light Precipitation",0.66,0.6061,0.78,0.4179,541,14361,8,1
+"615","14",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.89,0.1045,377,14362,8,1
+"616","15",FALSE,FALSE,"Light Precipitation",0.64,0.5758,0.89,0.2836,391,14363,8,1
+"617","16",FALSE,FALSE,"Light Precipitation",0.64,0.5758,0.89,0.2836,173,14364,8,1
+"618","17",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.89,0.2239,233,14365,8,1
+"619","18",FALSE,FALSE,"Misty",0.64,0.5758,0.89,0.0896,264,14366,8,1
+"620","19",FALSE,FALSE,"Misty",0.64,0.5758,0.89,0.1642,292,14367,8,1
+"621","20",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.89,0.1642,211,14368,8,1
+"622","21",FALSE,FALSE,"Clear to partly cloudy",0.64,0.5758,0.83,0.1343,166,14369,8,1
+"623","22",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5606,0.88,0.0896,114,14370,8,1
+"624","23",FALSE,FALSE,"Clear to partly cloudy",0.62,0.5758,0.83,0.0896,80,14371,8,1
+"625","0",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0,32,14372,8,1
+"626","1",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5606,0.88,0.0896,7,14373,8,1
+"627","2",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5606,0.88,0.1343,8,14374,8,1
+"628","3",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5606,0.88,0.0896,4,14375,8,1
+"629","4",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5758,0.83,0,12,14376,8,1
+"630","5",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5606,0.88,0,36,14377,8,1
+"631","6",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5606,0.88,0,145,14378,8,1
+"632","7",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0,433,14379,8,1
+"633","8",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.0896,699,14380,8,1
+"634","9",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.1045,342,14381,8,1
+"635","10",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.1343,206,14382,8,1
+"636","11",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.66,0.194,229,14383,8,1
+"637","12",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.62,0,283,14384,8,1
+"638","13",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.57,0.1642,288,14385,8,1
+"639","14",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.49,0.0896,246,14386,8,1
+"640","15",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7576,0.55,0.2985,282,14387,8,1
+"641","16",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7576,0.55,0.2537,444,14388,8,1
+"642","17",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7273,0.46,0.2239,845,14389,8,1
+"643","18",FALSE,TRUE,"Clear to partly cloudy",0.78,0.7121,0.52,0.2537,834,14390,8,1
+"644","19",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.7,0.2239,573,14391,8,1
+"645","20",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.7,0.194,416,14392,8,1
+"646","21",FALSE,TRUE,"Clear to partly cloudy",0.72,0.697,0.74,0.194,278,14393,8,1
+"647","22",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0.194,161,14394,8,1
+"648","23",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0.1642,114,14395,8,1
+"649","0",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.84,0.2537,38,14396,8,1
+"650","1",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.89,0.194,21,14397,8,1
+"651","2",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.83,0.2537,15,14398,8,1
+"652","3",FALSE,TRUE,"Clear to partly cloudy",0.66,0.5909,0.89,0.1343,4,14399,8,1
+"653","4",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6061,0.83,0.1343,8,14400,8,1
+"654","5",FALSE,TRUE,"Misty",0.66,0.6061,0.83,0.0896,42,14401,8,1
+"655","6",FALSE,TRUE,"Misty",0.66,0.5909,0.89,0.1045,147,14402,8,1
+"656","7",FALSE,TRUE,"Misty",0.66,0.6061,0.83,0.1045,269,14403,8,1
+"657","8",FALSE,TRUE,"Misty",0.66,0.6212,0.85,0.1045,693,14404,8,1
+"658","9",FALSE,TRUE,"Misty",0.7,0.6667,0.79,0.1642,395,14405,8,1
+"659","10",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.62,0.2537,204,14406,8,1
+"660","11",FALSE,TRUE,"Clear to partly cloudy",0.78,0.7273,0.55,0.2537,218,14407,8,1
+"661","12",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.49,0.2836,297,14408,8,1
+"662","13",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7424,0.43,0.2985,288,14409,8,1
+"663","14",FALSE,TRUE,"Clear to partly cloudy",0.84,0.7424,0.38,0.3284,251,14410,8,1
+"664","15",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7273,0.34,0.2985,317,14411,8,1
+"665","16",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7121,0.33,0.3284,480,14412,8,1
+"666","17",FALSE,TRUE,"Clear to partly cloudy",0.8,0.697,0.35,0.3881,864,14413,8,1
+"667","18",FALSE,TRUE,"Clear to partly cloudy",0.78,0.697,0.4,0.2537,818,14414,8,1
+"668","19",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.45,0.1642,597,14415,8,1
+"669","20",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.48,0.1045,435,14416,8,1
+"670","21",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.48,0.0896,314,14417,8,1
+"671","22",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.54,0,216,14418,8,1
+"672","23",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.57,0,109,14419,8,1
+"673","0",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.69,0,47,14420,8,1
+"674","1",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0.1343,14,14421,8,1
+"675","2",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0.1343,6,14422,8,1
+"676","3",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0.1045,9,14423,8,1
+"677","4",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5909,0.73,0.2239,10,14424,8,1
+"678","5",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5909,0.73,0.194,40,14425,8,1
+"679","6",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5909,0.73,0.194,181,14426,8,1
+"680","7",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.65,0.0896,554,14427,8,1
+"681","8",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.61,0.1642,808,14428,8,1
+"682","9",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.51,0.194,348,14429,8,1
+"683","10",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.48,0.1642,178,14430,8,1
+"684","11",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6515,0.45,0,253,14431,8,1
+"685","12",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.4,0,360,14432,8,1
+"686","13",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.42,0,300,14433,8,1
+"687","14",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.4,0.0896,301,14434,8,1
+"688","15",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.4,0.194,338,14435,8,1
+"689","16",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6667,0.37,0.1343,493,14436,8,1
+"690","17",FALSE,TRUE,"Clear to partly cloudy",0.78,0.6818,0.35,0.2239,870,14437,8,1
+"691","18",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6667,0.42,0.1642,812,14438,8,1
+"692","19",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.54,0.194,643,14439,8,1
+"693","20",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.57,0,427,14440,8,1
+"694","21",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.54,0.1045,313,14441,8,1
+"695","22",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.54,0,235,14442,8,1
+"696","23",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.57,0,157,14443,8,1
+"697","0",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.69,0,65,14444,8,1
+"698","1",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.65,0,23,14445,8,1
+"699","2",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0,17,14446,8,1
+"700","3",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0,5,14447,8,1
+"701","4",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0,8,14448,8,1
+"702","5",FALSE,TRUE,"Clear to partly cloudy",0.62,0.5909,0.73,0,35,14449,8,1
+"703","6",FALSE,TRUE,"Clear to partly cloudy",0.6,0.5606,0.83,0.1642,163,14450,8,1
+"704","7",FALSE,TRUE,"Clear to partly cloudy",0.64,0.6061,0.73,0,532,14451,8,1
+"705","8",FALSE,TRUE,"Clear to partly cloudy",0.66,0.6212,0.65,0,754,14452,8,1
+"706","9",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.58,0,396,14453,8,1
+"707","10",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6667,0.54,0,234,14454,8,1
+"708","11",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.4,0.0896,276,14455,8,1
+"709","12",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.45,0.1343,294,14456,8,1
+"710","13",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.1045,290,14457,8,1
+"711","14",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.1343,273,14458,8,1
+"712","15",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7273,0.46,0.1642,338,14459,8,1
+"713","16",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7273,0.43,0.1642,482,14460,8,1
+"714","17",FALSE,TRUE,"Clear to partly cloudy",0.82,0.7273,0.34,0.2239,844,14461,8,1
+"715","18",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7121,0.38,0.1343,853,14462,8,1
+"716","19",FALSE,TRUE,"Clear to partly cloudy",0.76,0.6818,0.48,0.1343,610,14463,8,1
+"717","20",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.58,0.1642,471,14464,8,1
+"718","21",FALSE,TRUE,"Clear to partly cloudy",0.72,0.6818,0.66,0.1343,307,14465,8,1
+"719","22",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6515,0.7,0,291,14466,8,1
+"720","23",FALSE,TRUE,"Clear to partly cloudy",0.7,0.6667,0.74,0.1045,152,14467,8,1
+"721","0",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.83,0.1642,82,14468,8,1
+"722","1",FALSE,TRUE,"Clear to partly cloudy",0.68,0.6364,0.83,0.1642,32,14469,8,1
+"723","2",FALSE,TRUE,"Clear to partly cloudy",0.66,0.5909,0.89,0.1343,20,14470,8,1
+"724","3",FALSE,TRUE,"Clear to partly cloudy",0.66,0.5909,0.89,0.1045,5,14471,8,1
+"725","4",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5758,0.89,0.1343,7,14472,8,1
+"726","5",FALSE,TRUE,"Clear to partly cloudy",0.64,0.5758,0.89,0.1642,29,14473,8,1
+"727","6",FALSE,TRUE,"Misty",0.64,0.5758,0.89,0.1642,108,14474,8,1
+"728","7",FALSE,TRUE,"Misty",0.64,0.5758,0.89,0.0896,421,14475,8,1
+"729","8",FALSE,TRUE,"Misty",0.7,0.6667,0.74,0,690,14476,8,1
+"730","9",FALSE,TRUE,"Clear to partly cloudy",0.74,0.697,0.7,0,398,14477,8,1
+"731","10",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.62,0.0896,256,14478,8,1
+"732","11",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7424,0.28,0.2985,309,14479,8,1
+"733","12",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7424,0.26,0.2537,410,14480,8,1
+"734","13",FALSE,TRUE,"Clear to partly cloudy",0.88,0.7576,0.27,0.3284,368,14481,8,1
+"735","14",FALSE,TRUE,"Clear to partly cloudy",0.9,0.7727,0.25,0.2239,436,14482,8,1
+"736","15",FALSE,TRUE,"Clear to partly cloudy",0.9,0.7879,0.27,0.2985,526,14483,8,1
+"737","16",FALSE,TRUE,"Clear to partly cloudy",0.9,0.7879,0.27,0.2537,528,14484,8,1
+"738","17",FALSE,TRUE,"Clear to partly cloudy",0.88,0.7727,0.32,0.1642,617,14485,8,1
+"739","18",FALSE,TRUE,"Clear to partly cloudy",0.86,0.7576,0.36,0.2537,546,14486,8,1
+"740","19",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.49,0.1343,452,14487,8,1
+"741","20",FALSE,TRUE,"Clear to partly cloudy",0.8,0.7424,0.49,0.1343,356,14488,8,1
+"742","21",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.58,0.194,303,14489,8,1
+"743","22",FALSE,TRUE,"Clear to partly cloudy",0.76,0.7121,0.58,0.194,277,14490,8,1
+"744","23",FALSE,TRUE,"Clear to partly cloudy",0.74,0.6818,0.62,0.1045,174,14491,8,1
